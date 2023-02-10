@@ -2,7 +2,7 @@
 """
 Created on Wed August 10 13:15:37 2022
 
-@author: Ora Fandina
+@author: Ora Nova Fandina
 """
 import numpy as np
 import matplotlib.pyplot as plt
